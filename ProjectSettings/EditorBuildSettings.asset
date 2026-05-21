@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/primary.unity
-    guid: f52b8915cf0d6034d83f2d4bfde99c55
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4755b35b590504809a7525fd2109c2e2
   - enabled: 0
+    path: Assets/Scenes/AR Template Scene.unity
+    guid: 9cf9135745ff18a4a99ce349f025e479
+  - enabled: 1
     path: Assets/Scenes/Basic_Face_Filter.unity
-    guid: 5c31cd3bd1a61e742b44cd8bf46fcdf0
+    guid: 0745212a27342cd4585c6b6c417c40a3
   - enabled: 1
     path: Assets/Scenes/InteractiveFilter.unity
-    guid: 853cfc4948121b443aab5a132c8359e7
+    guid: bddc99de826096543a39a8bcc980e514
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
